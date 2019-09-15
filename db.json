@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "23",
-      "firstName": "Samantha",
+      "firstName": "emeline",
       "lastName": "johnson",
       "sex": "female",
       "age": "26",
@@ -17,17 +17,29 @@
       "companyId": "2"
     },
     {
-      "id": "11",
-      "firstName": "Yvonne",
-      "lastName": "Peterson",
-      "sex": "female",
-      "age": "15",
-      "companyId": "2"
+      "firstName": "El-rufai",
+      "age": 59,
+      "id": "-Yxf2ZJ",
+      "sex": "male",
+      "lastName": "yakubu",
+      "companyId": 2
     }
   ],
   "companies": [
-    { "id": "1", "name": "Apple", "description": "iphone" },
-    { "id": "2", "name": "Google", "description": "search" },
-    { "id": "3", "name": "Microsoft", "description": "software" }
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "3",
+      "name": "Microsoft",
+      "description": "software"
+    }
   ]
 }
