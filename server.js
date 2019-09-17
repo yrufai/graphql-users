@@ -14,5 +14,5 @@ app.use(
 );
 
 app.listen(port, () => {
-  console.log("listennig on port " + port);
+  console.log("listennig to port " + port);
 });
